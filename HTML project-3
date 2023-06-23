@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>Web</title>
+<link rel="stylesheet" type="text/css" href="layout.css">
+<meta name="viewport" content="width=device-width", initial-scale=1>
+</head>
+<body>
+<div class="header">
+<h2 class="name">Web Development</h2>
+<nav>
+<ul>
+<li><a href = "#"> HOME </a> </li>
+<li><a href = "#call"> ABOUT ME</a> </li>
+<li><a href = "#"> SKILL</a> </li>
+<li><a href = "#"> CONTACT ME </a> </li>
+</ul>
+<a href="#" class="button"> Enquiry</a>
+</nav>
+</div>
+
+<div class="content">
+</div>
+<div class="text">
+<div class="intro">
+<h3>SUMMARY</h3>
+<h4> Hello My Name is</h4>
+<h2>VIJAYAKUMAR</h2>
+<p> 
+I'm a web development beginner, eager to dive into the world of coding and create dynamic and engaging websites. With a passion for learning and a strong foundation in HTML, CSS, and JavaScript, I'm excited to embark on this journey of crafting user-friendly interfaces and turning ideas into reality.</p>
+<div class="hit">
+<form>
+<input type="text" class="enter" placeholder="Join with me">
+<input type="text" class="submit" value="Submit">
+</form>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<section>
+<div class="main">
+<img src="mypic.jpeg">
+<div class="aboutcontent" id="call">
+<h3>ABOUT ME</h3>
+<p>
+As a web developer, my expertise lies in designing and building innovative and functional websites. With a strong grasp of programming languages such as HTML, CSS, and JavaScript, I create responsive and visually appealing interfaces that deliver a seamless user experience. I am proficient in various web development frameworks and libraries, allowing me to efficiently develop robust and scalable web applications. Constantly staying updated with the latest industry trends, I strive to implement cutting-edge technologies to enhance website performance and accessibility. My passion for problem-solving and attention to detail drive me to deliver high-quality websites that meet client requirements and exceed user expectations.
+</p>
+</div>
+</div>
+
+</section>
+</div>
+<div class="skills">
+<div class="skilltitle">
+<h2> MY SKILLS </h2>
+
+<div class="box">
+<div class="boxcard">
+<i class="fa-brands fa-html5"></i>
+<h3> HTML </h3>
+<div class="para">
+<p>HTML stands for HyperText Markup Language. It's the way web pages and email templates are coded so that text is formatted and images are added. Plain Text is regular text, with no formatting options such as bold, italics, underlines, or special layout options.
+</p>
+<a class="button3" href="#">HTML</a>
+</div>
+</div>
+
+<div class="boxcard">
+<i class="fa-brands fa-html5"></i>
+<h3> CSS </h3>
+<div class="para">
+<p>CSS is the acronym of “Cascading Style Sheets”. CSS is a computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files (. css).
+</p>
+<a class="button3" href="#">CSS</a>
+</div>
+</div>
+
+<div class="boxcard">
+<i class="fa-brands fa-html5"></i>
+<h3>Java Script</h3>
+<div class="para">
+<p>JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
+</p>
+<a class="button3" href="#">Javascript</a>
+</div>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+</div>
+</table>
+</body>
+</html>
